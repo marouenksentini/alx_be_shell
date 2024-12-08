@@ -1,1 +1,0 @@
-welcome shell permission
